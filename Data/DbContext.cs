@@ -1,10 +1,6 @@
-﻿using System;
-using System.Linq;
-using GeoLocationTest.Models;
+﻿using GeoLocationTest.Models;
 using GeoLocationTest.Services.Interface;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace GeoLocationTest.Data
 {
